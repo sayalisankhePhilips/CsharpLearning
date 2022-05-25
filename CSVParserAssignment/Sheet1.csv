@@ -1,0 +1,5 @@
+ID,Type,Attende,Duration
+M100,Checkup,Tom,50
+M101,FollowUp,Hary,30
+M102,FollowUp,Mary,15
+M103,VideoCall,James,40
